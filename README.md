@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-I'm SAP Developer working in warsaw, Poland.
+I'm SAP Developer working in Warsaw, Poland.
+
+<br>📣 Would you like to contact me, you can find me here:<br/>
 <p>
+  <a href="mailto:dygas.tomasz@gmail.com?subject=[GitHub]%20🔥%20Contact%20request&body=Hi%20Thomas"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tdygas"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <!--

@@ -29,10 +29,10 @@ I focus on creating maintainable software architecture, creation of new solution
 - 🤔  Designing flexible architecture that is easy to maintain
 - 🤔  Perform code review, refactoring and rebilding
 - ⚙️  Creating automation
-- 👥  Establishing best practices for architecture, testing and workflows
-- 📋  As a consultant, I usually:
-  - 👥  Help establish best practices and provide architecture recommendations
-  - 🛠️  Design and implement flexible and pragmatic solutions for hard problems
+- 👥  Establishing best practices for architecture and testing
+- 📋  Implementation of a DevOps environment in line with Agile as well as traditional SAP release approaches
+- 👥  Help establish best practices and provide architecture recommendations
+- 🛠️  Design and implement flexible and pragmatic solutions for hard problems
   
 🧙  And much more...
 

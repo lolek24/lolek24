@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I'm 🔹 SAP Developer 🔹 SAP Solution Architect 🔹 SAP DevOps 🔹 working in Warsaw, Poland.
-
+I'm 🔹 SAP Developer 🔹 SAP Solution Architect 🔹 SAP DevOps 🔹 currently working as a freelancer in Warsaw, Poland.
+I have been developing applications within the SAP system for over 15 years. 
 
 <br>📣 Would you like to contact me, you can find me here:<br/>
 <p>
@@ -19,6 +19,23 @@ I code with:  👇
   <img src="https://img.shields.io/badge/R-lightgrey?labelColor=lightgrey&logo=R&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-lightgrey?labelColor=lightgrey&logo=SQL&style=for-the-badge&logoColor=white"/>
 </p>
+<p align="left">
+I use :  👇
+<br><a><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/></a>
+</p>
+
+## My Expertise
+I focus on creating maintainable software architecture, creation of new solutions, development of existing applications and improving performance by:
+- 🤔  Designing flexible architecture that is easy to maintain
+- 🤔  Perform code review, refactoring and rebilding
+- ⚙️  Creating automation
+- 👥  Establishing best practices for architecture, testing and workflows
+- 📋  As a consultant, I usually:
+  - 👥  Help establish best practices and provide architecture recommendations
+  - 🛠️  Design and implement flexible and pragmatic solutions for hard problems
+  
+🧙  And much more...
+
 <!--
 **lolek24/lolek24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

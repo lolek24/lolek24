@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I'm SAP Developer working in Warsaw, Poland.
+I'm 🔹 SAP Developer 🔹 SAP Solution Architect 🔹 SAP DevOps 🔹 working in Warsaw, Poland.
+
 
 <br>📣 Would you like to contact me, you can find me here:<br/>
 <p>
